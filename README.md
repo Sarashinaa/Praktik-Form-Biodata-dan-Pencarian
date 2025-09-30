@@ -9,8 +9,6 @@
 
 **Aplikasi web sederhana untuk mengelola data biodata mahasiswa dengan fitur pencarian yang powerful! 🚀**
 
-[Demo](#demo) • [Fitur](#fitur) • [Instalasi](#instalasi) • [Penggunaan](#penggunaan) • [Kontribusi](#kontribusi)
-
 </div>
 
 ---
@@ -50,7 +48,6 @@ Sistem Manajemen Data Mahasiswa adalah aplikasi web berbasis PHP yang memungkink
 | PHP | 7.4+ | Backend logic dan session management |
 | HTML5 | - | Struktur halaman web |
 | CSS3 | - | Styling dan layout |
-| JavaScript | - | Interaktivitas (opsional) |
 
 ## 📁 Struktur Project
 
@@ -61,10 +58,6 @@ Sistem Manajemen Data Mahasiswa adalah aplikasi web berbasis PHP yang memungkink
 ├── 🎨 biodata.css          # Styling untuk halaman biodata
 ├── 🎨 pencarian.css        # Styling untuk halaman pencarian
 ├── 📚 README.md            # Dokumentasi project
-└── 📸 screenshots/         # Screenshot aplikasi
-    ├── biodata-form.png
-    ├── data-table.png
-    └── search-results.png
 ```
 
 ## 🚀 Instalasi
@@ -120,22 +113,6 @@ http://localhost:8000/biodata.php
 ### 3. Navigasi Antar Halaman
 - Dari biodata ke pencarian: Klik link hijau di bawah
 - Dari pencarian ke biodata: Klik link biru di bawah
-
-## 📸 Screenshot
-
-<details>
-<summary>Klik untuk melihat screenshot</summary>
-
-### Form Biodata
-![Form Biodata](screenshots/biodata-form.png)
-
-### Tabel Data Mahasiswa  
-![Data Table](screenshots/data-table.png)
-
-### Hasil Pencarian
-![Search Results](screenshots/search-results.png)
-
-</details>
 
 ## 🔧 Konfigurasi
 
@@ -218,7 +195,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Sarashinaa** - [@Sarashinaa](https://github.com/Sarashinaa)
 
-Project Link: [https://github.com/Sarashinaa/student-management-system](https://github.com/Sarashinaa/student-management-system)
+Project Link: [https://github.com/Sarashinaa/Praktik-Form-Biodata-dan-Pencarian](https://github.com/Sarashinaa/Praktik-Form-Biodata-dan-Pencarian)
 
 ---
 
